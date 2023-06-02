@@ -117,7 +117,7 @@ nav {
         overflow-x: hidden;
     }
 
-    .nav-list{
+    .nav_bar{
         position: absolute;
         top: 8vh;
         right: 0;
